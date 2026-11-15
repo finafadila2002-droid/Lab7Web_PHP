@@ -60,8 +60,6 @@ Dibuat halaman PHP sederhana menggunakan perintah echo untuk menampilkan tulisan
 Fungsi date() digunakan untuk menampilkan tanggal dan waktu berdasarkan server.
 Hasilnya, browser berhasil menampilkan tulisan "PHP berhasil dijalankan" beserta waktu server.
 
-<img width="959" height="563" alt="Screenshot 2026-11-14 234640" src="https://github.com/user-attachments/assets/8a37ea70-36a7-4a19-9f0e-cd58226c1762" />
-
 Program menggunakan percabangan if, elseif, dan else untuk menentukan predikat berdasarkan nilai akhir.
 Pada latihan ini dibuat program untuk menghitung nilai akhir mahasiswa berdasarkan nilai tugas, UTS, dan UAS.
 Bobot penilaian yang digunakan :
