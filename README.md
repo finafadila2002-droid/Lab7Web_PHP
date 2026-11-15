@@ -35,7 +35,7 @@ Berikut langkah-langkah menjalankan program PHP :
 8.Membuka Google Chrome.
 
 Mengetik alamat berikut pada browser  :
-http://localhost/lab7_php/?kata=Belajar+PHP
+http://localhost/lab7_php/
 
 Menekan Enter untuk melihat hasil program.
 
